@@ -1,0 +1,6 @@
+entities\Order.class
+entities\RestaurantEntity.class
+entities\CustomerEntity.class
+entities\Order$Status.class
+entities\Location.class
+entities\Data.class
